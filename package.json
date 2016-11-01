@@ -1,0 +1,26 @@
+{
+  "name": "express_oauth",
+  "version": "1.0.0",
+  "description": "authentication and authorization using express",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broerjuang/Express_Authentication_and_Authorization.git"
+  },
+  "keywords": [
+    "express",
+    "auth",
+    "mvc",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "broerjuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/broerjuang/Express_Authentication_and_Authorization/issues"
+  },
+  "homepage": "https://github.com/broerjuang/Express_Authentication_and_Authorization#readme"
+}
